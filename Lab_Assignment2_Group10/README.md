@@ -1,4 +1,4 @@
-Team Members 
+Team Members: 
 Nancy On (30145785)
 Kimberly Michl (30133088)
 Yoda Yu (30279343)
